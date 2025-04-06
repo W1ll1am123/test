@@ -43,3 +43,5 @@ result = format_json(input_obj, ind, form)
 
 # Print the result
 print(result)
+# it's from visual now
+print("tralala")
